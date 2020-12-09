@@ -1,0 +1,13 @@
+<configuration>
+	<time>
+		<begin value="0"/>
+		<end value="700"/>
+	</time>
+	<input>
+		<net-file value="junction.net.xml"/>
+		<route-files value="route.rou.xml"/>
+		<additional-files value="tllogic.add.xml"/>
+		<gui-settings-file value="view.cfg"/>
+
+	</input>
+</configuration>

@@ -1,0 +1,13 @@
+<additional>
+	<tlLogic id="junc" offset="0" programID="1" type="actuated">
+
+		<phase state="GGgrrrGGgrrr" duration="45" name="phase1"/>
+
+		<phase state="yyyrrryyyrrr" duration="3" name="phase2"/>
+
+		<phase state="rrrGGgrrrGGg" duration="45" name="phase3"/>
+
+		<phase state="rrryyyrrryyy" duration="3" name="phase4"/>
+
+</tlLogic>
+</additional>
